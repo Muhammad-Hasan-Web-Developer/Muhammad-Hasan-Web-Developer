@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hasan-web-developer&" alt="muhammad-hasan-web-developer" /></p>
 
-<p><img src="https://github.com/user-attachments/assets/9a6e1168-1599-4cf6-ae35-b964ca8e260e">
-</p>
