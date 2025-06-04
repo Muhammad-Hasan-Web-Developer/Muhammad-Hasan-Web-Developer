@@ -18,10 +18,11 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,blender,git,github&theme=light"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php&theme=light"> <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" height="50"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/273_Readme_logo-512.png" height="50">
  </p>
  <h1><b>📊 GitHub Stats:</b></h1>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hasan-web-developer&theme=dark" alt="muhammad-hasan-web-developer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hasan-web-developer&theme=dark" alt="muhammad-hasan-web-developer" /></p>
  <img src="https://api.githubtrends.io/user/svg/Muhammad-Hasan-Web-Developer/langs?time_range=one_year&use_percent=True&theme=dark">
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-hasan-web-developer&show_icons=true&locale=en&theme=dark" alt="muhammad-hasan-web-developer" /></p>
 <h1><b>🏆 GitHub Trophies</b></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hasan-web-developer&theme=dark" alt="muhammad-hasan-web-developer" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-hasan-web-developer&theme=dark_dimmed&no-frame=true" alt="muhammad-hasan-web-developer" /></a> </p>
 
 <h1><b>🔝 Top Contributed Repo</b></h1>
