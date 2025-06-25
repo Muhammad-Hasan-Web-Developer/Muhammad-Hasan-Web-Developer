@@ -1,7 +1,7 @@
 <p align="center">
 <img src="github-header-image.png">
 </p>
-<h3 align="center">A front-end developer from Indonesia who is passionate about her work.</h3>
+<h3 align="center">A front-end developer from Indonesia who is passionate about his work.</h3>
 <hr>
 <br>
 <h1><b>💫About Me:</b></h1>
