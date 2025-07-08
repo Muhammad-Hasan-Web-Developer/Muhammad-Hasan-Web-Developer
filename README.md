@@ -2,7 +2,7 @@
   <img src="github-header-image.png" alt="Header">
 </p>
 
-<h3 align="center">Front-end developer from Indonesia passionate about web & design.</h3>
+<h3 align="center">Front-end developer from Indonesia passionate about developing & designing.</h3>
 
 <hr>
 
