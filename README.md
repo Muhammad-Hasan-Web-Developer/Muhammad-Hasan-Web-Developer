@@ -1,24 +1,26 @@
-<p align="center">
-  <img src="github-header-image.png" alt="Header">
-</p>
+> [!NOTE]
+>
+> Sorry, I'm going to an Islamic boarding school, so I won't be able to use GitHub for a few years. But you can still access my GitHub.
 
-<h3 align="center">Front-end developer from Indonesia passionate about developing & designing.</h3>
+<!-- Header -->
+<img src="github-header-banner.png" alt="github-header-banner.png">
+<hr>
+اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ Hello, my name is Hasan. I'm 14 years old and I'm from Indonesia. I'm a front-end web developer.
 
 <hr>
 
 ### 💫 About Me
-- 🔭 Currently working on [Play](https://github.com/Muhammad-Hasan-Web-Developer/Play.play-any-games-for-free)
-- 🌱 Currently learning **PHP** and **JavaScript**
-- 👨‍💻 All projects: [Portfolio Website](https://muhammmadhasan.wuaze.com)
+- 🔭 Currently working on ...
+- 🌱 Currently learning **Blender**, **JavaScript** & **Spline**
+- 👨‍💻 All projects: [My Portfolio Website]([https://muhammmadhasan.wuaze.com](https://muhammadhasan.is-a.dev/))
 - 📫 Email: **muhammadhasan.genju@gmail.com**
 
 ---
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,blender,git,github,html,css,bootstrap,js,php&theme=light">
-  <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" height="40">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/273_Readme_logo-512.png" height="40">
+  <img src="https://skillicons.dev/icons?i=vscode,blender,git,github,html,css,bootstrap,js&theme=light">
+  <img src="https://app.spline.design/_assets/_icons/icon_favicon32x32.png" height="50px">
 </p>
 
 ---
